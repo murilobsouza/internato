@@ -1,0 +1,5 @@
+{
+  "name": "Check-in de Presença",
+  "description": "Sistema de registro de frequência para alunos com painel administrativo para professores, controle de acesso e relatórios de auditoria.",
+  "requestFramePermissions": []
+}
